@@ -12,7 +12,7 @@ spec:
       labels:
         app: frontend
     spec:
-      containers
+      containers:
         - name: frontend
           # 여러분의 frontend image 주소를 입력해주세요.
           image: krmp-d2hub-idock.9rum.cc/dev-test/repo_dc5c19e65b5c
